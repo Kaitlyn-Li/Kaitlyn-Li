@@ -21,6 +21,14 @@
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKaitlynLi67">
 </a>
 
+## My Projects
+
+<table bordercolor="#66b2b2">
+  
+ 
+   
+</table>
+
 ## My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaitlyn-Li&theme=great-gatsby)](https://github.com/Kaitlyn-Li/github-readme-stats)
