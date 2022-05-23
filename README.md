@@ -39,7 +39,25 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p> 
- 
+    <td width="50%" valign="top">
+      <h3 align="center">Your Local Floral Shop</h3>
+        <br />
+      <a target="_blank" href="https://flowerdot.netlify.app/">
+            <img src="https://github.com/Kaitlyn-Li/FlowerShop/blob/main/output.gif" width="100%" alt="FlowerShop website"/>
+        </a>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <p align="center">
+           <a href="https://github.com/Kaitlyn-Li/FlowerShop" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://flowerdot.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>   
   </tr>
 </table>
 
